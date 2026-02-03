@@ -9,18 +9,18 @@ TaskReward is a blockchain-based task management system built on Polkadot. Users
 
 ## Live Demo
 
-🌐 **Live Website**: [https://taskrewarddapp.vercel.app]
-📜 **Smart Contract**: `5EYCAe51jjfyfej22J3CGq56LmPyNRAKzpG4QkoQkkQNB5e6Z`
-🔗 **GitHub**: [https://github.com/Jeevang1-epic/taskreward_dapp.git]
+**Live Website**: [https://taskrewarddapp.vercel.app]
+**Smart Contract**: `5EYCAe51jjfyfej22J3CGq56LmPyNRAKzpG4QkoQkkQNB5e6Z`
+**GitHub**: [https://github.com/Jeevang1-epic/taskreward_dapp.git]
 
 ## Features
 
-- ✅ **Create Tasks** - Anyone can create tasks with custom reward points
-- ✅ **Complete Tasks** - Earn points by completing available tasks
-- ✅ **Transfer Points** - Send points to other users
-- ✅ **Real-time Updates** - Instant UI updates
-- ✅ **Mobile Responsive** - Works on all devices
-- ✅ **Wallet Integration** - Connect with Polkadot wallets
+- **Create Tasks** - Anyone can create tasks with custom reward points
+- **Complete Tasks** - Earn points by completing available tasks
+- **Transfer Points** - Send points to other users
+- **Real-time Updates** - Instant UI updates
+- **Mobile Responsive** - Works on all devices
+- **Wallet Integration** - Connect with Polkadot wallets
 
 ## Tech Stack
 
@@ -66,6 +66,7 @@ TaskReward is a blockchain-based task management system built on Polkadot. Users
 **Frontend**: Deployable to Vercel, Netlify, or GitHub Pages
 
 ### Deploy to Vercel:
+
 
 
 
